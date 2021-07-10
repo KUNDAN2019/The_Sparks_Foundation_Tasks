@@ -1,1 +1,1 @@
-# The_Sparks_Foundation_Tasks
+This repository contains the tasks performed by me during the Data Science & Business Analytics Internship @THE SPARKS FOUNDATION (GRIP) #JulyBatch2021
